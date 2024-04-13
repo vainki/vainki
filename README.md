@@ -1,7 +1,7 @@
 ### <div align="center">Soy Nicolas, un desarrollador freelance full-stack a tiempo completo  🚀</div>  
   
 
-- 🔭 Actualmente estoy trabajando en WHost, un hosting de servidores de juegos/voz.
+- 🔭 Actualmente estoy trabajando en StarNode, un hosting de servidores de juegos/voz.
   
 
 - 🌱 Actualmente estoy aprendiendo NextJS y React Native
